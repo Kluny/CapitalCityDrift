@@ -6,10 +6,10 @@ http://capitaldrift.ca/
 
 ## Screencaps
 
-[!Event Data Tab](https://raw.githubusercontent.com/Kluny/CapitalCityDrift/master/Screencaps/eventdatatab.png)
+![Event Data Tab](https://raw.githubusercontent.com/Kluny/CapitalCityDrift/master/Screencaps/eventdatatab.png)
 
-[!Drivers Listing Tab](https://github.com/Kluny/CapitalCityDrift/blob/master/Screencaps/getdriverstab.png)
+![Drivers Listing Tab](https://github.com/Kluny/CapitalCityDrift/blob/master/Screencaps/getdriverstab.png)
 
-[!Registration Tab](https://github.com/Kluny/CapitalCityDrift/blob/master/Screencaps/registrationtab.png)
+![Registration Tab](https://github.com/Kluny/CapitalCityDrift/blob/master/Screencaps/registrationtab.png)
 
-[!Scoring Tab](https://github.com/Kluny/CapitalCityDrift/blob/master/Screencaps/scoringtab.png)
+![Scoring Tab](https://github.com/Kluny/CapitalCityDrift/blob/master/Screencaps/scoringtab.png)
